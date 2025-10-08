@@ -9,6 +9,12 @@ public class Bus {
     public Bus() {
     }
 
+    public Bus(int busId, String plateNumber, int capacity) {
+        this.busId = busId;
+        this.plateNumber = plateNumber;
+        this.capacity = capacity;
+    }
+
     public int getBusId() {
         return busId;
     }
