@@ -16,8 +16,8 @@ import java.util.logging.Logger;
 public class DBContext {
 
     private final String user = "sa";
-    private final String pass = "sa";
-    private final String url = "jdbc:sqlserver://localhost:1433;databaseName=AuthenDB";
+    private final String pass = "123";
+    private final String url = "jdbc:sqlserver://localhost:1433;databaseName=ASM_PRJ";
 
     public DBContext() {
         try {

@@ -3,5 +3,20 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="Practice"/>
+        <group>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/src/java/RouteModule/services/RouteServices.java</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/web/WEB-INF/Screen/Menu.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/web/index.html</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/src/java/RouteModule/controller/RouteAddServlet.java</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/src/java/RouteModule/dao/RouteDAO.java</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/src/java/common/db/InitDB.sql</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/src/java/common/db/DBContext.java</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/src/java/RouteModule/controller/RouteListServlet.java</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/src/java/RouteModule/controller/RouteEditServlet.java</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/web/WEB-INF/Bus/BusListView.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/web/WEB-INF/Route/RouteListView.jsp</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/src/java/BusModule/controller/BusListServlet.java</file>
+            <file>file:/C:/Users/Admin/Desktop/VinNoBus_PRJ_ASM_FA25/web/WEB-INF/Route/RouteAdd.jsp</file>
+        </group>
     </open-files>
 </project-private>

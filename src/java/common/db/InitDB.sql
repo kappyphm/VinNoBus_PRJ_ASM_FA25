@@ -97,8 +97,8 @@ CREATE TABLE Station (
 -- ==============================================
 CREATE TABLE Route (
     route_id INT IDENTITY(1,1) PRIMARY KEY,
-    route_name VARCHAR(150) NOT NULL,
-	type VARCHAR(10) CHECK (type in ('ROUND_TRIP', 'CIRCULAR')),
+    route_name NVARCHAR(150) NOT NULL,
+    type VARCHAR(10) CHECK (type in ('ROUND_TRIP', 'CIRCULAR')),
     frequency INT CHECK (frequency >= 0)
 );
 

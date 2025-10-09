@@ -9,6 +9,7 @@
 <!DOCTYPE html>
 <html>
     <head>
+     
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>BUS LIST</title>
         <style>
@@ -60,10 +61,10 @@
                 color: red;
             }
         </style>
+          <jsp:include page="/WEB-INF/Screen/Menu.jsp"/>
     </head>
     <body>
         <h1 style="text-align:center;">Danh sách xe Bus</h1>
-
         <!-- Hiển thị thông báo success/fail -->
         <c:if test="${not empty msg}">
             <div class="msg ${msgType}">
